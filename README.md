@@ -8,7 +8,8 @@ Strategy
 State 
 Template
 
-	O Observer foi utilizado para notificar os estados em que o Orc se encontra, dentre eles, Normal ou Mutante, a sua vantagem seria a de informar seu estado e com isso saberá quais habilidades ele possui.
+	
+O Observer foi utilizado para notificar os estados em que o Orc se encontra, dentre eles, Normal ou Mutante, a sua vantagem seria a de informar seu estado e com isso saberá quais habilidades ele possui.
 	
 O Strategy foi utilizado nos tipos de ataques do Orc dentre eles, AtaqueDeMachado e AtaqueDeLanca, a sua vantagem seria na variação de ataques a ser realizado pelo Orc.
 
